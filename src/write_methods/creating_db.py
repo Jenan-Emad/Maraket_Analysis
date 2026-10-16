@@ -1,5 +1,4 @@
 import sqlite3
-from pathlib import Path
 from write_methods.get_path import get_dp_path
 
 

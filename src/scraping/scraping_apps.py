@@ -1,5 +1,5 @@
 import pandas as pd
-from google_play_scraper import reviews, Sort, search, app
+from google_play_scraper import search
 import urllib.error
 
 

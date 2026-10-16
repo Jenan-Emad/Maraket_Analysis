@@ -10,7 +10,7 @@ from get_scraped_data import show_scraped_data
 from get_scraped_reviews import get_scraped_reviews
 from write_methods.creating_db import drop_all_old_tables
 from write_methods.save_to_excel import save_to_excel
-from write_methods.get_path import get_output_dir, get_dp_path
+from write_methods.get_path import get_output_dir
 from charts import apply_charts
 
 st.set_page_config(page_title="Competitor Intelligence", page_icon="📊", layout="wide")

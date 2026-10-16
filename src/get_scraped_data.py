@@ -1,5 +1,3 @@
-#from streamlit import st
-import pandas as pd
 
 def show_scraped_data(scraped_data, st):
     column_configuration = {

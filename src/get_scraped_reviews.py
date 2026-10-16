@@ -1,6 +1,6 @@
 from cleaning.cleaning import clean_reviews_data
 from scraping.scraping_reviews import scrape_market_reviews
-from write_methods.creating_db import warehouse_database_operations, drop_all_old_tables
+from write_methods.creating_db import warehouse_database_operations
 
 
 def get_scraped_reviews(list_of_apps, st, pd):

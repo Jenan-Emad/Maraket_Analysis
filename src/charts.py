@@ -1,6 +1,4 @@
-import pandas as pd
 import plotly.express as px
-import streamlit as st
 from write_methods.get_path import get_output_dir
 SENTIMENT_COL = "review_category"
 COLOR_MAP = {"positive": "#2ecc71", "neutral": "#f1c40f", "negative": "#e74c3c"}
