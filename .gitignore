@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# database
+*.db
+*.sqlite
+*.sqlite3
+
+# generated outputs
+output/
+*.xlsx
+*.xls
+
+# python / environment
+__pycache__/
+*.pyc
+.venv/
+venv/

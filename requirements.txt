@@ -1,0 +1,7 @@
+   streamlit
+   pandas
+   plotly
+   openpyxl
+   google-genai
+   google-play-scraper
+   python-dotenv
